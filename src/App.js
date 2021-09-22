@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import AddEmployee from './pages/CreateEmployeeComponent';
-import ViewEmployee from './pages/ViewEmployeeComponent';
+//import ViewEmployee from './pages/ViewEmployeeComponent';
 import UpdateEmployee from './pages/UpdateEmployeeComponent';
 import ListEmployee from './pages/ListEmployeeComponent';
 import InternList from './pages/InternListComponent';
