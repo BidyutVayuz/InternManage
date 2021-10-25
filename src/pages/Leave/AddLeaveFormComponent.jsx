@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { Form,Button,Col,Row } from "react-bootstrap";
 import InternshipService from '../../services/InternshipService';
-import "./LeaveApplicationEmpForm.css";
+//import "./LeaveApplicationEmpForm.css";
 export default class AddLeaveFormComponent extends Component {
     constructor(props) {
         super(props);
